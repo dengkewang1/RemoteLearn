@@ -1,0 +1,11 @@
+# f = open('test.txt','r',encoding='utf-8')
+# content = f.read()
+# print(content)
+# f.close()
+
+# f1 = open('test.txt','a+')
+# f1.write('\nzhende')
+# f1.seek(0,0)
+# result = f1.read()
+# print(result)
+# f1.close()
